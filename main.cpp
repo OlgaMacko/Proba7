@@ -4,6 +4,8 @@ using namespace std;
 int main() {
 
   cout << "Olga Macko\n";
+  cout << "Vineta\n";
+
 
   cout << "Ketija K\n";
 
@@ -17,6 +19,7 @@ int main() {
 
 
   cout << "Inta Grabe\n";
+
 
 
 
