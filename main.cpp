@@ -5,5 +5,5 @@ int main() {
 
   cout << "Olga Macko\n";
   cout << "Marina Juzova\n";
-
+cout << "Dina\n";
 }
