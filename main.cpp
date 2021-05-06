@@ -31,6 +31,7 @@ int main() {
 
 
 cout << "Liāna\n";
+  cout << "Marina Kazakeviča\n";
 
 
 }
