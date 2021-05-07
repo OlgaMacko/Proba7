@@ -20,6 +20,9 @@ int main() {
 
   cout << "Marina Juzova\n";
 
+cout << "Dina\n";
+
+
 
 
   cout << "Inta Grabe\n";
@@ -33,6 +36,7 @@ int main() {
 
 cout << "Liāna\n";
   cout << "Marina Kazakeviča\n";
+
 
 
 }
